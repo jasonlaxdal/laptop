@@ -30,6 +30,7 @@ Download the script:
 ```sh
 curl --remote-name https://raw.githubusercontent.com/thoughtbot/laptop/master/mac
 ```
+^ Points to thoughtbot's script, not this repo... so I get latest. This fork is just in case Thoughtbot's batteries run out.
 
 Review the script (avoid running scripts you haven't read!):
 
