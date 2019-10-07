@@ -146,7 +146,7 @@ cask "gpg-suite"
 
 # Databases
 brew "postgres", restart_service: :changed
-brew "redis", restart_service: :changed
+# brew "redis", restart_service: :changed
 EOF
 
 fancy_echo "Update heroku binary ..."
