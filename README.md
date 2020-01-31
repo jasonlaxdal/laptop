@@ -74,7 +74,7 @@ macOS tools:
 
 Unix tools:
 
-* [Exuberant Ctags] for indexing files for vim tab completion
+* [Universal Ctags] for indexing files for vim tab completion
 * [Git] for version control
 * [OpenSSL] for Transport Layer Security (TLS)
 * [RCM] for managing company and personal dotfiles
@@ -83,7 +83,7 @@ Unix tools:
 * [Watchman] for watching for filesystem events
 * [Zsh] as your shell
 
-[Exuberant Ctags]: http://ctags.sourceforge.net/
+[Universal Ctags]: https://ctags.io/
 [Git]: https://git-scm.com/
 [OpenSSL]: https://www.openssl.org/
 [RCM]: https://github.com/thoughtbot/rcm
@@ -223,7 +223,7 @@ and may be redistributed under the terms specified in the [LICENSE] file.
 About thoughtbot
 ----------------
 
-![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
+![thoughtbot](https://thoughtbot.com/brand_assets/93:44.svg)
 
 Laptop is maintained and funded by thoughtbot, inc.
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
